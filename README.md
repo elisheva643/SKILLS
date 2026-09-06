@@ -11,6 +11,7 @@ extend what the agent can do.
 > The full product spec, IPC channels, and tools are documented in [SPEC.md](SPEC.md).
 
 ---
+///
 
 ## Requirements
 
